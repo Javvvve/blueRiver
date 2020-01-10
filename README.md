@@ -1,4 +1,4 @@
-# music2
+# BlueRiver
 
 ## Project setup
 ```
